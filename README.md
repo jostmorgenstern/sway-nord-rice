@@ -34,5 +34,5 @@ The default waybar network entry regularly shows "lo (No IP)" despite my machine
 The scripts need to be made executable and placed in /usr/local/bin to make the rice work.
 
 ![dunst-wofi-waybar](screenshots/dunst-wofi-waybar.png)
-![neofetch](screenshots/neofetch.png)
+![neofetch-htop](screenshots/neofetch-htop.png)
 ![neovim](screenshots/neovim.png)
