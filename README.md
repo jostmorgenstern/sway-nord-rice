@@ -1,6 +1,6 @@
 # Nord Rice Dotfiles
 
-This repository contains the dotfiles from my personal Sway nord rice.
+This repository contains the dotfiles from my personal Sway Nord rice.
 
 ## Dependencies: 
 
@@ -31,4 +31,8 @@ wrapper for changing volume with `pactl`, similar to changeBrightness. Bound to 
 
 The default waybar network entry regularly shows "lo (No IP)" despite my machine being connected to ethernet or wifi. The custom/network module in waybar.conf solves this problem by calling the script waybarNetworkInfo every 30 seconds.
 
-The scripts should be made executable and placed in /usr/local/bin to make the rice work.
+The scripts need to be made executable and placed in /usr/local/bin to make the rice work.
+
+![dunst-wofi-waybar](screenshots/dunst-wofi-waybar.png)
+![neofetch](screenshots/neofetch.png)
+![neovim](screenshots/neovim.png)
